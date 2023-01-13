@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienmoney/node_js_blog.git"
+  },
+  "keywords": [
+    "kaka",
+    "hihi",
+    "haha"
+  ],
+  "author": "NCT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tienmoney/node_js_blog/issues"
+  },
+  "homepage": "https://github.com/tienmoney/node_js_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
